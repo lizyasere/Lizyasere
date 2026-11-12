@@ -1,13 +1,12 @@
 # Elizabeth Iyasere
 
-Software engineer based in Lagos, Nigeria. I work across the full stack on production systems for
-two companies: an insurance business, where I build customer and agent portals, a mobile app for
-agents and the .NET APIs behind them, and a product company, where I work on a large Next.js web
-platform, its admin dashboard, mobile app and Node.js services.
+Software engineer and researcher based in Lagos, Nigeria. I build production systems across the
+full stack: web platforms and admin dashboards, cross-platform mobile apps, and the APIs, databases
+and cloud infrastructure behind them. I started out on the frontend and now work end to end, from
+React and React Native interfaces to backend services, CI/CD and cloud deployment.
 
-I started out on the frontend and now work end to end, from React and React Native interfaces to
-APIs, databases, CI/CD and cloud deployment. Most of my day-to-day work lives in private
-repositories, so my contribution graph is a better picture of it than the public repositories here.
+Alongside engineering, I do research in database systems and software engineering, with a focus on
+how data is designed, queried and kept consistent in real-world applications.
 
 ## What I work on
 
@@ -32,15 +31,16 @@ repositories, so my contribution graph is a better picture of it than the public
 | DevOps and cloud | GitHub Actions, Azure DevOps, Docker, Terraform, Google Cloud, Cloudflare |
 | Tooling | Git, Turborepo, pnpm, Swagger / OpenAPI |
 
+## Research interests
+
+- Database systems: data modelling, query optimisation, transactions and concurrency
+- Distributed and cloud data management
+- Software engineering practice for data-heavy applications
+
 ## Education
 
 - Master of Information Technology, MIVA Open University (in progress)
 - B.Sc. Computer Science, Babcock University
-
-## Currently
-
-- Studying advanced database systems: schema design, query optimisation, transactions, NoSQL and distributed databases
-- Strengthening my system design and backend architecture
 
 ## Contact
 
