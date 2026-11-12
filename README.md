@@ -19,10 +19,16 @@ I build modern, responsive web applications with a focus on clean code and great
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -30,16 +36,22 @@ I build modern, responsive web applications with a focus on clean code and great
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizyasere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8)
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizyasere&theme=tokyonight)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lizyasere&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=70A5FD&currStreakLabel=38BDF8)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=lizyasere&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=70A5FD&currStreakLabel=38BDF8)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizyasere&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizyasere&theme=tokyonight)
 
 </div>
 
+## 🎓 Education
+
+- **Master of Information Technology** (in progress), MIVA Open University
+- **B.Sc. Computer Science**, Babcock University
+
 ## 🚀 What I'm Currently Working On
 
+- 🗄️ Going deeper into databases: schema design, query tuning, transactions and NoSQL
 - 🔨 Building full-stack projects with Next.js and .NET
 - 📚 Learning backend development with C# and Node.js
 - 🎯 Contributing to open-source projects
@@ -48,7 +60,6 @@ I build modern, responsive web applications with a focus on clean code and great
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyasereelizabeth/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](YOUR_PORTFOLIO)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lizyasere)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyasere.elizabeth1@gmail.com)
 
@@ -60,6 +71,6 @@ I build modern, responsive web applications with a focus on clean code and great
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
   
 </div>
